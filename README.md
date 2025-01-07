@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luyandohambala
+- 👋 Hi, Luyando Hambala here!
 
 
 **Welcome to my GitHub profile!**
