@@ -3,7 +3,7 @@
 
 **Welcome to my GitHub profile!**
 
-I'm a software developer with a focus on .NET, Python, and SQL I'm passionate about building robust and scalable applications using the latest technologies.
+I'm a software engineer with a focus on .NET, Python, and SQL I'm passionate about building robust and scalable applications using the latest technologies.
 
 **Skills:**
 
